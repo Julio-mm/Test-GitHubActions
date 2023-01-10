@@ -3,7 +3,7 @@ name: Test GitHub Actions
 on:
   pull_request:
     branches:
-      - 'main'S
+      - 'main'
 
 jobs:
   test:
